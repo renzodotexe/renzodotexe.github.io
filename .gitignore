@@ -1,0 +1,2 @@
+# Exclude macOS DS_Store files
+.DS_Store
